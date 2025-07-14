@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keerthirajhan
 - 👀 I’m interested in "Technology"
-- 🌱 I’m currently learning python programming for AI projects
-- 💞️ I’m looking to collaborate on AI projects
+- 🌱 I’m currently learning Full Stack Developement in RVSCAS
+- 💞️ I’m looking to collaborate on Digital Twin Projects
 - 📫 You can reach at keerthirajhan@gmail.com
 
 <!---
